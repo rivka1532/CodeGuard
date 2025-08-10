@@ -1,0 +1,154 @@
+{
+  "commit.py": [
+    {
+      "timestamp": "2025-08-10T22:45:00.531267",
+      "issues": 2
+    },
+    {
+      "timestamp": "2025-08-10T22:45:00.533215",
+      "issues": 2
+    },
+    {
+      "timestamp": "2025-08-10T23:00:27.302257",
+      "issues": 2
+    },
+    {
+      "timestamp": "2025-08-10T23:04:30.891340",
+      "issues": 2
+    },
+    {
+      "timestamp": "2025-08-10T23:04:54.088490",
+      "issues": 2
+    }
+  ],
+  "file_handeling.py": [
+    {
+      "timestamp": "2025-08-10T22:45:00.538051",
+      "issues": 14
+    },
+    {
+      "timestamp": "2025-08-10T22:45:00.548378",
+      "issues": 14
+    },
+    {
+      "timestamp": "2025-08-10T23:00:27.312521",
+      "issues": 14
+    },
+    {
+      "timestamp": "2025-08-10T23:04:30.907413",
+      "issues": 14
+    },
+    {
+      "timestamp": "2025-08-10T23:04:54.097613",
+      "issues": 14
+    },
+    {
+      "timestamp": "2025-08-10T23:13:11.543947",
+      "issues": 14
+    }
+  ],
+  "main.py": [
+    {
+      "timestamp": "2025-08-10T22:45:00.551347",
+      "issues": 8
+    },
+    {
+      "timestamp": "2025-08-10T22:45:00.552987",
+      "issues": 8
+    },
+    {
+      "timestamp": "2025-08-10T23:00:27.319772",
+      "issues": 8
+    },
+    {
+      "timestamp": "2025-08-10T23:04:30.915237",
+      "issues": 8
+    },
+    {
+      "timestamp": "2025-08-10T23:04:54.104116",
+      "issues": 8
+    }
+  ],
+  "repsitory.py": [
+    {
+      "timestamp": "2025-08-10T22:45:00.559771",
+      "issues": 15
+    },
+    {
+      "timestamp": "2025-08-10T22:45:00.561330",
+      "issues": 15
+    },
+    {
+      "timestamp": "2025-08-10T23:00:27.334088",
+      "issues": 15
+    },
+    {
+      "timestamp": "2025-08-10T23:04:30.937165",
+      "issues": 15
+    },
+    {
+      "timestamp": "2025-08-10T23:04:54.113488",
+      "issues": 15
+    },
+    {
+      "timestamp": "2025-08-10T23:13:35.189711",
+      "issues": 15
+    }
+  ],
+  "C:\\Users\\user1\\python\\codeguard\\commit.py": [
+    {
+      "timestamp": "2025-08-10T23:00:27.298865",
+      "issues": 2
+    },
+    {
+      "timestamp": "2025-08-10T23:04:30.888183",
+      "issues": 2
+    },
+    {
+      "timestamp": "2025-08-10T23:04:54.085943",
+      "issues": 2
+    }
+  ],
+  "C:\\Users\\user1\\python\\codeguard\\file_handeling.py": [
+    {
+      "timestamp": "2025-08-10T23:00:27.309926",
+      "issues": 14
+    },
+    {
+      "timestamp": "2025-08-10T23:04:30.904494",
+      "issues": 14
+    },
+    {
+      "timestamp": "2025-08-10T23:04:54.094899",
+      "issues": 14
+    }
+  ],
+  "C:\\Users\\user1\\python\\codeguard\\main.py": [
+    {
+      "timestamp": "2025-08-10T23:00:27.317017",
+      "issues": 8
+    },
+    {
+      "timestamp": "2025-08-10T23:04:30.912309",
+      "issues": 8
+    },
+    {
+      "timestamp": "2025-08-10T23:04:54.101312",
+      "issues": 8
+    }
+  ],
+  "C:\\Users\\user1\\python\\codeguard\\repsitory.py": [
+    {
+      "timestamp": "2025-08-10T23:00:27.331585",
+      "issues": 15
+    },
+    {
+      "timestamp": "2025-08-10T23:04:30.933647",
+      "issues": 15
+    },
+    {
+      "timestamp": "2025-08-10T23:04:54.111079",
+      "issues": 15
+    }
+  ]
+}
